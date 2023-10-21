@@ -1,0 +1,14 @@
+{
+  "name": "english-phrase",
+  "version": "1.0.0",
+  "description": "英会話フレーズ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "http-auth": "4.2.0",
+    "pug": "3.0.2"
+  }
+}
